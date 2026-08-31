@@ -8,7 +8,7 @@
     <groupId>io.github.thinkfast-pl</groupId>
     <artifactId>harbor-orm</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <name>HarborORM</name>
     <description>Type-safe Java ORM with compile-time metadata generation</description>
