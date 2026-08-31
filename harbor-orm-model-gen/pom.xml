@@ -10,6 +10,8 @@
     </parent>
 
     <artifactId>harbor-orm-model-gen</artifactId>
+    <name>HarborORM Metamodel Generator</name>
+    <description>Annotation processor generating type-safe Q-entity and table metadata classes at compile time</description>
 
     <dependencies>
         <dependency>
